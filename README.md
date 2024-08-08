@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A dedicated and enthusiastic teenage student with a passion for coding and programming. <br />
-I’m interested to learn more about Artificial Intelligence (AI), Machine Learning (ML) and Data Science. <br />
+I’m interested to learn more about Artificial Intelligence (AI), Machine Learning (ML), Full Stack development and Data Science. <br />
 I’m always eager to explore new technologies and programming languages.<br />
 
 ### Languages & Tools : <br clear="both">
@@ -26,13 +26,22 @@ I’m always eager to explore new technologies and programming languages.<br />
 </div>
 
 ### What I’m Excited About 
-Learning: Continuously expanding my skills in Python, C++ and exploring emerging tech.
+Learning: Continuously expanding my skills in Python, C++, Data Structures & Algorithm and exploring emerging tech.
 
 ### Projects: 
 Working on personal projects and starting to contribute to open-source initiatives to gain practical experience.
 
 ### Collaboration: 
 Looking forward to connecting with like-minded individuals and collaborating on innovative projects.
+
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/tarankit-baraik-ab372a309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Tarankit_Baraik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/tarankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hello kalle" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/tarankit08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker" height="30" width="40" /></a>
+
+</p>
 
 
 
