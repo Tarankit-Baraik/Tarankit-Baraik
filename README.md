@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 A dedicated and enthusiastic teenage student with a passion for coding and programming. <br />
 I’m interested to learn more about Artificial Intelligence (AI), Machine Learning (ML), Full Stack development and Data Science. <br />
-I’m always eager to explore new technologies and programming languages.<br />
+I’m always eager to explore new technologies, contribute to innovative projects and learn programming languages.<br />
 
 ### Languages & Tools : <br clear="both">
 
