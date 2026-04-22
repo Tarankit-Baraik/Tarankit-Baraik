@@ -35,13 +35,6 @@ Working on personal projects and starting to contribute to open-source initiativ
 Looking forward to connecting with like-minded individuals and collaborating on innovative projects.
 
 ### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/tarankit-baraik-ab372a309/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Tarankit_Baraik/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/tarankit" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hello kalle" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/tarankit08" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker" height="30" width="40" /></a>
-
-</p>
-
+<p align="left"><a href="https://www.linkedin.com/in/tarankit-baraik-ab372a309/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a><a href="https://leetcode.com/u/Tarankit_Baraik/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a><a href="https://www.kaggle.com/tarankit" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/tarankit08" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a></p>
 
 
