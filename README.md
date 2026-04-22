@@ -17,13 +17,13 @@ I’m always eager to explore new technologies, contribute to innovative project
 
 ### Languages & Tools : <br clear="both">
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
+</p>
 
 ### What I’m Excited About 
 Learning: Continuously expanding my skills in Python, C++, Data Structures & Algorithm and exploring emerging tech.
@@ -36,10 +36,10 @@ Looking forward to connecting with like-minded individuals and collaborating on 
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/tarankit-baraik-ab372a309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Tarankit_Baraik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/tarankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hello kalle" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/tarankit08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tarankit-baraik-ab372a309/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Tarankit_Baraik/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/tarankit" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hello kalle" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/tarankit08" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker" height="30" width="40" /></a>
 
 </p>
 
