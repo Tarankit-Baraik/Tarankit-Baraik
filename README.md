@@ -35,4 +35,13 @@ Looking forward to connecting with like-minded individuals and collaborating on 
 
 ### Connect with me:
 
-<p align="left"><a href="https://www.linkedin.com/in/tarankit-baraik-ab372a309/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/Tarankit_Baraik/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/tarankit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/profile/tarankit08" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/tarankit-baraik-ab372a309/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Tarankit_Baraik/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/tarankit" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/tarankit08" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
